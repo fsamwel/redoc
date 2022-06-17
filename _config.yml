@@ -1,5 +1,5 @@
 baseurl: "/redoc"
-apiname: "Haal Centraal"
+apiname: "redoc"
 url: "http://localhost:4000"
 
 nav:
@@ -25,4 +25,4 @@ github: fsamwel/redoc
 
 theme: jekyll-theme-time-machine
 
-project_name: /Haal-Centraal
+project_name: /redoc
