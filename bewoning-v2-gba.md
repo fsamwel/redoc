@@ -1,4 +1,3 @@
-
 ---
 layout: page-with-side-nav
 title: redoc
